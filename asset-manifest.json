@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.29087410.css",
-    "main.js": "/static/js/main.2c649917.js",
+    "main.js": "/static/js/main.bdbe6e78.js",
     "static/js/787.d64b140d.chunk.js": "/static/js/787.d64b140d.chunk.js",
     "static/media/pi.gif": "/static/media/pi.b690be2aad242a447226.gif",
     "static/media/airplane2.JPG": "/static/media/airplane2.615c1f1d7dc6121eb5ae.JPG",
@@ -18,11 +18,11 @@
     "static/media/node-js.png": "/static/media/node-js.974843718f22970ea238.png",
     "index.html": "/index.html",
     "main.29087410.css.map": "/static/css/main.29087410.css.map",
-    "main.2c649917.js.map": "/static/js/main.2c649917.js.map",
+    "main.bdbe6e78.js.map": "/static/js/main.bdbe6e78.js.map",
     "787.d64b140d.chunk.js.map": "/static/js/787.d64b140d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29087410.css",
-    "static/js/main.2c649917.js"
+    "static/js/main.bdbe6e78.js"
   ]
 }
