@@ -1,13 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.393869fe.css",
-    "main.js": "/static/js/main.bc6b3ead.js",
+    "main.js": "/static/js/main.624befc4.js",
     "static/js/787.d64b140d.chunk.js": "/static/js/787.d64b140d.chunk.js",
-    "static/media/pi.gif": "/static/media/pi.b690be2aad242a447226.gif",
     "static/media/airplane2.JPG": "/static/media/airplane2.615c1f1d7dc6121eb5ae.JPG",
     "static/media/face.png": "/static/media/face.34e50f23525cac88e06c.png",
     "static/media/airplane1.JPG": "/static/media/airplane1.d48770ac3c5cbe790751.JPG",
-    "static/media/omfpic.png": "/static/media/omfpic.c1e373625c1c7dca3975.png",
     "static/media/react.png": "/static/media/react.ed78a572ed82617b2da7.png",
     "static/media/github.png": "/static/media/github.486a2a22b33a9b3fb568.png",
     "static/media/html5.png": "/static/media/html5.71a35b427ad24586e13c.png",
@@ -18,11 +16,11 @@
     "static/media/node-js.png": "/static/media/node-js.974843718f22970ea238.png",
     "index.html": "/index.html",
     "main.393869fe.css.map": "/static/css/main.393869fe.css.map",
-    "main.bc6b3ead.js.map": "/static/js/main.bc6b3ead.js.map",
+    "main.624befc4.js.map": "/static/js/main.624befc4.js.map",
     "787.d64b140d.chunk.js.map": "/static/js/787.d64b140d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.393869fe.css",
-    "static/js/main.bc6b3ead.js"
+    "static/js/main.624befc4.js"
   ]
 }
