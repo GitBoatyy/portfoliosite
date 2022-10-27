@@ -10,13 +10,13 @@ export default function ContactSD(){
                     <p className="grayf">
                     If you have an opportunity to share, or would like to discuss anything, you can leave your details below.                    </p>
                         <div className="formcontainer ">
-                            <div className="grayf contactinput">
+                            <div className="contactinput">
                                 <input className="contactinput" type="text" id="name" name="name" placeholder="Name"/>
                             </div>
-                            <div className="grayf contactinput">
+                            <div className="contactinput">
                                 <input className="contactinput" type="email" id="email" name="email" placeholder="Email" />
                             </div>
-                            <div className="grayf contactinput">
+                            <div className="contactinput">
                                 <textarea className="contactinput" id="message" name="message" placeholder="Message"/>
                             </div>
                             <button type="submit">
