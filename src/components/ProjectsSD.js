@@ -1,6 +1,4 @@
 import React from "react";
-import omftrainer from "../img/omfpic.png"
-import pi from "../img/pi.gif"
 
 
 export default function ProjectsSD(){
@@ -16,12 +14,12 @@ export default function ProjectsSD(){
             <div id="projectgallery">
                 <div id="project1" className="projects" > 
                 <a href="https://omftrainer.com" target="_blank" rel="noopener noreferrer">
-                <img  src={omftrainer} alt="" className="projectimg" width='100%'/>
+                <img  src='https://i.imgur.com/ui3Gbfm.gif' alt="" className="projectimg" width='100%'/>
                 </a>
                 </div>
                 <div id="project2" className="projects">
                     <a href="https://gitboatyy.github.io/pi/" target="_blank" rel="noopener noreferrer">
-                        <img src={pi} alt="" width='100%' className="projectimg" />
+                        <img src='https://i.imgur.com/FI4Uju8.gif' alt="" width='100%' className="projectimg" />
                     </a>
                 </div>
                 <div id="project3" className="projects">p3</div>
