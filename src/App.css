@@ -6,6 +6,7 @@
 
 html{
   background-color: black;
+  scroll-behavior: smooth;
 }
 body{
   animation: fadeInAnimation ease 4s;
