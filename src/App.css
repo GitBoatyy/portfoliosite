@@ -160,6 +160,9 @@ padding-top: 10vw;
 .projectimg{
   height: 100%;
 }
+.hidden{
+  display: none;
+}
 .techicon{
   width: 100%;
   transition: all .1s ease-in-out;
