@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.393869fe.css",
-    "main.js": "/static/js/main.624befc4.js",
+    "main.css": "/static/css/main.667612a4.css",
+    "main.js": "/static/js/main.bfedd1a2.js",
     "static/js/787.d64b140d.chunk.js": "/static/js/787.d64b140d.chunk.js",
-    "static/media/airplane2.JPG": "/static/media/airplane2.615c1f1d7dc6121eb5ae.JPG",
-    "static/media/face.png": "/static/media/face.34e50f23525cac88e06c.png",
-    "static/media/airplane1.JPG": "/static/media/airplane1.d48770ac3c5cbe790751.JPG",
+    "static/media/face.png": "/static/media/face.72b7f86f2f626d235a5b.png",
+    "static/media/airplane2.JPG": "/static/media/airplane2.01ab425e581301188c6f.JPG",
+    "static/media/airplane1.JPG": "/static/media/airplane1.ac4182441cdf80e17ba7.JPG",
     "static/media/react.png": "/static/media/react.ed78a572ed82617b2da7.png",
     "static/media/github.png": "/static/media/github.486a2a22b33a9b3fb568.png",
     "static/media/html5.png": "/static/media/html5.71a35b427ad24586e13c.png",
@@ -15,12 +15,12 @@
     "static/media/javascript.png": "/static/media/javascript.0cd6bbf446459a5e35b9.png",
     "static/media/node-js.png": "/static/media/node-js.974843718f22970ea238.png",
     "index.html": "/index.html",
-    "main.393869fe.css.map": "/static/css/main.393869fe.css.map",
-    "main.624befc4.js.map": "/static/js/main.624befc4.js.map",
+    "main.667612a4.css.map": "/static/css/main.667612a4.css.map",
+    "main.bfedd1a2.js.map": "/static/js/main.bfedd1a2.js.map",
     "787.d64b140d.chunk.js.map": "/static/js/787.d64b140d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.393869fe.css",
-    "static/js/main.624befc4.js"
+    "static/css/main.667612a4.css",
+    "static/js/main.bfedd1a2.js"
   ]
 }
