@@ -14,7 +14,7 @@ export default function ProjectsSD(){
             developed or contributed to, from a Boeing maintenance simulator, 
             a local small business webpage to a pi visualizer.</p>
             <div id="projectgallery">
-                <div id="project1" classNa me="projects" > 
+                <div id="project1" className="projects" > 
                 <a href="https://omftrainer.com" target="_blank" rel="noopener noreferrer">
                 <img  src={omftrainer} alt="" className="projectimg" width='100%'/>
                 </a>

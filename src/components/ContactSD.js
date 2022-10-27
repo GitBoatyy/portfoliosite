@@ -25,7 +25,7 @@ export default function ContactSD(){
     return(
         <section id="contactSD">
             <div className="containercontact">
-                <form netlify name="contact" className="contactform" onSubmit={handleSubmit}>
+                <form data-netlify="true" method="POST" name="contact" className="contactform" onSubmit={handleSubmit}>
 
                     <h2 className="grayf">
                         Contact Me
