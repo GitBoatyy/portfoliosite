@@ -45,7 +45,8 @@ export default function ContactSD(){
                                 className="contactinput" 
                                 type="text" 
                                 id="name" 
-                                placeholder="Name"/>
+                                placeholder="Name"
+                                required/>
                             </div>
                             <div className="contactinput">
                                 <input name="email"
@@ -53,21 +54,20 @@ export default function ContactSD(){
                                 className="contactinput" 
                                 type="email" 
                                 id="email" 
-                                placeholder="Email" />
+                                placeholder="Email" 
+                                required/>
                             </div>
                             <div className="contactinput">
                                 <textarea name="message" 
                                 onChange={(e) => setMessage(e.target.value)} 
                                 className="contactinput" 
                                 id="message" 
-                                placeholder="Message"/>
+                                placeholder="Message"
+                                required/>
                             </div>
                             <button type="submit">
                                 Submit
                             </button>
-                            <input type="hidden" 
-                            name="form-name" 
-                            value="contact" />
                         </div>
                     </form>
                 </div>
