@@ -30,9 +30,8 @@ export default function ContactSD(){
                 <form 
                 netlify
                 name="contact" 
-                className="contactform" 
-                onSubmit={handleSubmit}>
-
+                onSubmit={handleSubmit}
+                className="contactform" >
                     <h2 className="grayf">
                         Contact Me
                     </h2>
