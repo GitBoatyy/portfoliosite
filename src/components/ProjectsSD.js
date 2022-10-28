@@ -19,7 +19,7 @@ export default function ProjectsSD(){
                 </div>
                 <div id="project2" className="projects">
                     <a href="https://gitboatyy.github.io/pi/" target="_blank" rel="noopener noreferrer">
-                        <img src='https://imgur.com/VpEoVJS.gif' alt="" width='100%' className="projectimg" />
+                        <img src='https://i.imgur.com/VpEoVJS.gif' alt="" width='100%' className="projectimg" />
                     </a>
                 </div>
                 <div id="project3" className="projects">p3</div>
