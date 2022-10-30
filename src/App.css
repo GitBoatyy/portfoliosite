@@ -117,13 +117,11 @@ body{
   align-self: center;
   align-items: center;
   width: 80vw;
+  height: auto;
 }
 #projectgallery{
-  display: grid;
-  grid-template: 1fr 1fr / 1fr 1fr 1fr;
-  max-height: 50vh;
-  justify-content: space-around;
-  max-width: 700px;
+  display: flex;
+  flex-direction: column;
 }
 #projectgalleryav{
   display: grid;
@@ -134,33 +132,46 @@ body{
 }
 .projects{
   color: #bcbcbc;
-  transition: all .1s ease-in-out;
+  transition: all .2s ease-in-out;
   border-radius: 5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 5%;
 }
-.projects:hover{
+.projectdescription{
+  max-width: 40vw;
+  padding: 1%;
+
+}
+.projectimage{
+  height: 40vh;
+}
+.projectimage img{
+ height: 30vh;
+ border-radius: 6px;
+ overflow: hidden;
+}
+.projectimage img:hover{
+  transition: all .2s ease-in-out;
   transform: scale(2);
+}
+.projectdescription{
+  display: flex;
+  align-items: center;
 }
 .larger{
   font-size: larger;
 }
 #project1{
-  grid-row: 1 / 3;
-  justify-content: center;
   display: flex;
   transition: all .1s ease-in-out;
 }
 .gapped{
 padding-top: 10vw;
 }
-#project1:hover{
-  transform: scale(2);
-}
-#project1desc{
-  visibility: hidden;
-}
-.projectimg{
-  height: 100%;
-}
+
+
 .hidden{
   display: none;
 }
@@ -224,4 +235,10 @@ width: 100%;
 }
 .footerimg:hover{
   transform: scale(1.1);
+}
+
+@media screen and (max-width: 500px) {
+  .projectdescription{
+    display: none;
+  }
 }
